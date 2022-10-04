@@ -1,0 +1,31 @@
+.App {
+  background-color: #FBF0DF;
+}
+
+.fix {
+  position: fixed;
+  width: 100%;
+}
+
+.fix .header {
+  display: flex;
+  justify-content: space-between;
+  background-color: #4B7551;
+  padding: 5px 10px;
+}
+
+.fix .title {
+  text-align: center;
+}
+
+.fix .banner {
+  background-color: #4B7551;
+}
+
+.images {
+  height: 200vh;
+}
+
+.footer {
+  background-color: #4B7551;
+}

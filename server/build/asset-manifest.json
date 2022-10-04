@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.830575d2.css",
+    "main.js": "/static/js/main.b6eede29.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/LogoWhite.svg": "/static/media/LogoWhite.e341e56e7d3f1583e42b56ce20445e0f.svg",
+    "static/media/Logo.svg": "/static/media/Logo.0a2e8ab8cd3096cc3b10360d8d30e3ac.svg",
+    "static/media/CartLogo.svg": "/static/media/CartLogo.279f6f6c4c187d1d2035a32544250c19.svg",
+    "static/media/OrganicLogo.svg": "/static/media/OrganicLogo.cb33feb311c47e73b5232530e1d88ccb.svg",
+    "static/media/CookieLogo.svg": "/static/media/CookieLogo.3134ea9f76bcaba78d209ee387e3c16e.svg",
+    "static/media/DrinkLogo.svg": "/static/media/DrinkLogo.d664af4fe5a9f83770ec6b189cea2a18.svg",
+    "static/media/LogoUser.svg": "/static/media/LogoUser.d742c2eff6f5a9fb498f1bdad48f7bef.svg",
+    "static/media/ShirtsLogo.svg": "/static/media/ShirtsLogo.3b3afc7d90e1dd2c3e029396a6744a3e.svg",
+    "index.html": "/index.html",
+    "static/media/MenuBurger.svg": "/static/media/MenuBurger.4c47d093f27f3a291f7bdc46b8a5352a.svg",
+    "main.830575d2.css.map": "/static/css/main.830575d2.css.map",
+    "main.b6eede29.js.map": "/static/js/main.b6eede29.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.830575d2.css",
+    "static/js/main.b6eede29.js"
+  ]
+}

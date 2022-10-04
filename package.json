@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "yarn": "^1.22.19"
+  },
+  "scripts": {
+    "express-build": "cd client && yarn build && rm -rf ../server/build && mv build ../server && cd ../server && node server.js"
+  }
+}
